@@ -1,0 +1,1 @@
+print(rajni.salary)
